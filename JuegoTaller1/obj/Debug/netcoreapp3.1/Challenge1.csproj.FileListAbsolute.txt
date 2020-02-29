@@ -1,0 +1,22 @@
+C:\Users\743A c17\source\repos\Challenge1\bin\Debug\netcoreapp3.1\Challenge1.exe
+C:\Users\743A c17\source\repos\Challenge1\bin\Debug\netcoreapp3.1\Challenge1.deps.json
+C:\Users\743A c17\source\repos\Challenge1\bin\Debug\netcoreapp3.1\Challenge1.runtimeconfig.json
+C:\Users\743A c17\source\repos\Challenge1\bin\Debug\netcoreapp3.1\Challenge1.runtimeconfig.dev.json
+C:\Users\743A c17\source\repos\Challenge1\bin\Debug\netcoreapp3.1\Challenge1.dll
+C:\Users\743A c17\source\repos\Challenge1\bin\Debug\netcoreapp3.1\Challenge1.pdb
+C:\Users\743A c17\source\repos\Challenge1\obj\Debug\netcoreapp3.1\Challenge1.csprojAssemblyReference.cache
+C:\Users\743A c17\source\repos\Challenge1\obj\Debug\netcoreapp3.1\Challenge1.AssemblyInfoInputs.cache
+C:\Users\743A c17\source\repos\Challenge1\obj\Debug\netcoreapp3.1\Challenge1.AssemblyInfo.cs
+C:\Users\743A c17\source\repos\Challenge1\obj\Debug\netcoreapp3.1\Challenge1.dll
+C:\Users\743A c17\source\repos\Challenge1\obj\Debug\netcoreapp3.1\Challenge1.pdb
+R:\Pipe\trabajos\8-A\Challenge1\bin\Debug\netcoreapp3.1\Challenge1.exe
+R:\Pipe\trabajos\8-A\Challenge1\bin\Debug\netcoreapp3.1\Challenge1.deps.json
+R:\Pipe\trabajos\8-A\Challenge1\bin\Debug\netcoreapp3.1\Challenge1.runtimeconfig.json
+R:\Pipe\trabajos\8-A\Challenge1\bin\Debug\netcoreapp3.1\Challenge1.runtimeconfig.dev.json
+R:\Pipe\trabajos\8-A\Challenge1\bin\Debug\netcoreapp3.1\Challenge1.dll
+R:\Pipe\trabajos\8-A\Challenge1\bin\Debug\netcoreapp3.1\Challenge1.pdb
+R:\Pipe\trabajos\8-A\Challenge1\obj\Debug\netcoreapp3.1\Challenge1.csprojAssemblyReference.cache
+R:\Pipe\trabajos\8-A\Challenge1\obj\Debug\netcoreapp3.1\Challenge1.AssemblyInfoInputs.cache
+R:\Pipe\trabajos\8-A\Challenge1\obj\Debug\netcoreapp3.1\Challenge1.AssemblyInfo.cs
+R:\Pipe\trabajos\8-A\Challenge1\obj\Debug\netcoreapp3.1\Challenge1.dll
+R:\Pipe\trabajos\8-A\Challenge1\obj\Debug\netcoreapp3.1\Challenge1.pdb

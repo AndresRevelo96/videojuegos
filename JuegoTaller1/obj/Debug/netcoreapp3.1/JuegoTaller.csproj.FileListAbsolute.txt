@@ -1,0 +1,11 @@
+R:\Pipe\trabajos\8-A\Challenge1\bin\Debug\netcoreapp3.1\JuegoTaller.exe
+R:\Pipe\trabajos\8-A\Challenge1\bin\Debug\netcoreapp3.1\JuegoTaller.deps.json
+R:\Pipe\trabajos\8-A\Challenge1\bin\Debug\netcoreapp3.1\JuegoTaller.runtimeconfig.json
+R:\Pipe\trabajos\8-A\Challenge1\bin\Debug\netcoreapp3.1\JuegoTaller.runtimeconfig.dev.json
+R:\Pipe\trabajos\8-A\Challenge1\bin\Debug\netcoreapp3.1\JuegoTaller.dll
+R:\Pipe\trabajos\8-A\Challenge1\bin\Debug\netcoreapp3.1\JuegoTaller.pdb
+R:\Pipe\trabajos\8-A\Challenge1\obj\Debug\netcoreapp3.1\JuegoTaller.csprojAssemblyReference.cache
+R:\Pipe\trabajos\8-A\Challenge1\obj\Debug\netcoreapp3.1\JuegoTaller.AssemblyInfoInputs.cache
+R:\Pipe\trabajos\8-A\Challenge1\obj\Debug\netcoreapp3.1\JuegoTaller.AssemblyInfo.cs
+R:\Pipe\trabajos\8-A\Challenge1\obj\Debug\netcoreapp3.1\JuegoTaller.dll
+R:\Pipe\trabajos\8-A\Challenge1\obj\Debug\netcoreapp3.1\JuegoTaller.pdb
